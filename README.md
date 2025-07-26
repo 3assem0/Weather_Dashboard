@@ -41,10 +41,3 @@ This project demonstrates how to fetch and display live weather information dyna
 - Conditional rendering & loading states
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/weather-dashboard.git
-cd weather-dashboard
